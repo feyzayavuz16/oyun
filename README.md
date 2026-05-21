@@ -15,6 +15,7 @@ Bu proje, **HTML5 Canvas** ve **Pure (Vanilla) JavaScript** kullanılarak geliş
 * **Hareket:** Fareyi (Mouse) ekran üzerinde hareket ettirerek karakterinizi yönlendirebilirsiniz. Karakteriniz farenin olduğu konuma doğru ilerler.
 * **Ateş Etme:** Ekrana **Sol Tıklayarak (Left Click)** en yakındaki düşmana ateş edebilirsiniz.
 * **Amaç:** Kahverengi düşmanlar size ulaşmadan önce onları vurun, öldüklerinde bıraktıkları pembe yemleri toplayarak skorunuzu artırın ve hayatta kalın!
+  
 
 ### 🎲 Şans Çarkı Etkileri (Roll)
 Her 5 yem topladığınızda karşınıza çıkan çarktan şu özellikler gelebilir:
@@ -22,6 +23,11 @@ Her 5 yem topladığınızda karşınıza çıkan çarktan şu özellikler geleb
 * 🔴 **Kırmızı Kare:** Hızınız %8 azalır.
 * 🔵 **Mavi Kare:** Mermi gücünüz +1 artar.
 * 🟣 **Mor Kare:** Mermi gücünüz -1 azalır (Minimum 1).
+### oyun:
+referans: https://thoseawesomeguys.itch.io/a-tiny-chance
+benim yaptığım: https://feyzayavuz16.github.io/oyun/
+
+  
 
 
 
