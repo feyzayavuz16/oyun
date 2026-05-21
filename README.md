@@ -24,8 +24,8 @@ Her 5 yem topladığınızda karşınıza çıkan çarktan şu özellikler geleb
 * 🔵 **Mavi Kare:** Mermi gücünüz +1 artar.
 * 🟣 **Mor Kare:** Mermi gücünüz -1 azalır (Minimum 1).
 ### oyun:
-referans: https://thoseawesomeguys.itch.io/a-tiny-chance
-benim yaptığım: https://feyzayavuz16.github.io/oyun/
+* referans: https://thoseawesomeguys.itch.io/a-tiny-chance
+* benim yaptığım: https://feyzayavuz16.github.io/oyun/
 
   
 
