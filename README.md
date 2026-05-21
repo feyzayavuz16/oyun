@@ -23,12 +23,5 @@ Her 5 yem topladığınızda karşınıza çıkan çarktan şu özellikler geleb
 * 🔵 **Mavi Kare:** Mermi gücünüz +1 artar.
 * 🟣 **Mor Kare:** Mermi gücünüz -1 azalır (Minimum 1).
 
-## 🛠️ Teknik Detaylar & Algoritmalar
 
-### En Yakın Düşman Tespiti (Vektör Matematiği)
-Oyuncu ateş ettiğinde, tüm aktif düşman dizisi (`mobs`) `Array.prototype.reduce()` fonksiyonu ile taranarak oyuncuya en kısa mesafedeki düşman belirlenir:
 
-```javascript
-let target = mobs.reduce((a, b) => {
-    return dist(player, a) < dist(player, b) ? a : b;
-});
